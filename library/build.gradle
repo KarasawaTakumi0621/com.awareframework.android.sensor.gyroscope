@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.github.dcendents.android-maven'
 
 dependencies {
-    api 'com.github.awareframework:com.awareframework.android.core:master-SNAPSHOT'
+    implementation 'com.github.tetujin:com.awareframework.android.sensor.accelerometer:-SNAPSHOT'
     // api project(':core')
 
     // Gson
